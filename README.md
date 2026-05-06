@@ -1,29 +1,34 @@
-# 📚 ReadingTracker - Şəxsi Kitab Kitabxanam
+# 📚 ReadingTracker - Modern Kitab İzləmə Platforması
 
-ReadingTracker, istifadəçilərin oxuduqları kitabları qeydiyyata aldığı, statuslarını izlədiyi (Oxunur/Bitirilib) və şəxsi qeydlərini saxladığı modern bir ASP.NET Core MVC tətbiqidir.
+ReadingTracker, kitabsevərlər üçün hazırlanmış, oxuma vərdişlərini rəqəmsallaşdıran və fərdi kitabxanalarını idarə etməyə imkan verən **ASP.NET Core MVC** əsaslı veb tətbiqidir.
 
-## ✨ Xüsusiyyətlər
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core%208.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
--   **Modern UI/UX:** "Plus Jakarta Sans" şrifti və minimalist ağ dizayn ilə Apple tərzində interfeys.
--   **İstifadəçi Sistemi:** Qeydiyyat, Giriş və Çıxış funksiyaları (Cookie Authentication).
--   **Şəxsi Kitabxana:** Hər istifadəçi yalnız öz əlavə etdiyi kitabları görür.
--   **CRUD Əməliyyatları:** Kitab əlavə etmə, detallara baxma, statusu yeniləmə və silmə.
--   **JSON Data Storage:** Verilənlər bazası olaraq sadə və sürətli JSON fayllarından istifadə olunur.
--   **Responsive Dizayn:** Həm mobil, həm də masaüstü cihazlar üçün tam uyğundur.
+## ✨ Əsas Xüsusiyyətlər
 
-## 🚀 Texnologiyalar
+-   **🔐 Təhlükəsiz Giriş Sistemi:** Cookie-based Authentication vasitəsilə qeydiyyat və giriş imkanı.
+-   **📖 Fərdi Kitabxana:** Hər bir istifadəçi yalnız özünə aid olan kitab siyahısını görür və idarə edir.
+-   **⚡ CRUD Əməliyyatları:** Kitabların əlavə edilməsi, silinməsi, detallarına baxılması və statusunun yenilənməsi.
+-   **🔍 Filtrasiya:** Kitabları "Oxunur" və ya "Bitirilib" statusuna görə süzgəcdən keçirmə funksiyası.
+-   **🎨 Modern UI:** "Plus Jakarta Sans" şrifləri və Apple tərzində minimalist dizayn dili.
+-   **📱 Responsive:** Bütün cihazlarda (mobil, planşet, masaüstü) qüsursuz görünüş.
 
--   **Backend:** ASP.NET Core 8.0 MVC
--   **Frontend:** HTML5, CSS3 (Custom Animations), Bootstrap 5
--   **Data:** JSON (System.Text.Json)
--   **İkonlar:** Bootstrap Icons
+## 🛠️ Texnologiyalar
 
-## 📂 Qovluq Quruluşu
+-   **Backend:** C# / ASP.NET Core 8.0 MVC
+-   **Məlumat Bazası:** JSON faylları (Verilənlərin sürətli oxunması üçün `System.Text.Json` istifadə olunub)
+-   **Frontend:** HTML5, CSS3 (Custom Animations), Razor Pages, Bootstrap 5
+-   **Dizayn:** Glassmorphism və Minimalist White Design
+
+## 📂 Layihə Strukturu
 
 ```text
 ReadingTracker/
-├── Controllers/        # Giriş və Kitab məntiqini idarə edən kontrollerlər
-├── Models/             # Book, User və Enum sinifləri
-├── Services/           # JSON faylı ilə əlaqə yaradan JsonDataService
-├── Views/              # Səhifələrin (HTML/Razor) görünüşləri
+│
+├── Controllers/        # İdarəetmə məntiqi (Account, Book)
+├── Models/             # Verilənlər modelləri (User, Book, Enum)
+├── Services/           # JSON bazası ilə əlaqə (JsonDataService)
+├── Views/              # İstifadəçi interfeysi (Razor)
 └── Data/               # books.json və users.json faylları
