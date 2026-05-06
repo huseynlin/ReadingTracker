@@ -1,0 +1,63 @@
+﻿@model ReadingTracker.Models.Book
+@{
+    ViewData["Title"] = "Yeni Kitab";
+}
+
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+
+<div class="container py-5 mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6 col-lg-5">
+            <div class="card border-0 shadow-lg p-4 animate-fade-in" style="border-radius: 24px;">
+                <div class="card-body">
+                    <div class="text-center mb-4">
+                        <i class="bi bi-bookmark-plus-fill text-primary display-4"></i>
+                        <h2 class="fw-bold mt-2" style="font-family: 'Plus Jakarta Sans', sans-serif;">Yeni Kitab Əlavə Et</h2>
+                    </div>
+
+                    <form action="/books/create" method="post">
+                        @Html.AntiForgeryToken()
+                        
+                        <div class="mb-3">
+                            <label class="form-label text-muted small fw-bold text-uppercase ms-2">Kitabın Adı</label>
+                            <input asp-for="Title" class="form-control custom-input" placeholder="Məs: Səfillər" required />
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label text-muted small fw-bold text-uppercase ms-2">Müəllif</label>
+                            <input asp-for="Author" class="form-control custom-input" placeholder="Məs: Viktor Hüqo" required />
+                        </div>
+
+                        <div class="mb-4">
+                            <label class="form-label text-muted small fw-bold text-uppercase ms-2">Qısa Məzmun</label>
+                            <textarea asp-for="Summary" class="form-control custom-input" rows="4" placeholder="Kitab haqqında qısa qeydlər..."></textarea>
+                        </div>
+
+                        <div class="d-grid gap-2">
+                            <button type="submit" class="btn btn-primary py-3 fw-bold" style="border-radius: 14px;">Yadda Saxla</button>
+                            <a href="/books/my-list" class="btn btn-link text-decoration-none text-muted">Ləğv et</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    body { background-color: #f8fafc; font-family: 'Plus Jakarta Sans', sans-serif; }
+    .custom-input {
+        background-color: #f1f5f9;
+        border: 2px solid transparent;
+        padding: 12px 18px;
+        border-radius: 14px;
+        transition: 0.3s;
+    }
+    .custom-input:focus {
+        background-color: white;
+        border-color: #4361ee;
+        box-shadow: 0 0 0 4px rgba(67, 97, 238, 0.1);
+    }
+    .animate-fade-in { animation: fadeIn 0.6s ease-out; }
+    @@keyframes fadeIn { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+</style>

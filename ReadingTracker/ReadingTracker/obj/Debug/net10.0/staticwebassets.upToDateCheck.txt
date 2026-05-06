@@ -1,0 +1,2 @@
+wwwroot\css\site.css
+C:\Users\nural\Downloads\WebC#\ReadingTracker\ReadingTracker\wwwroot\css\site.css

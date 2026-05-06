@@ -1,0 +1,402 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|c:\\users\\nural\\downloads\\webc#\\readingtracker\\readingtracker\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|solutionrelative:readingtracker\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|c:\\users\\nural\\downloads\\webc#\\readingtracker\\readingtracker\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|solutionrelative:readingtracker\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|c:\\users\\nural\\downloads\\webc#\\readingtracker\\readingtracker\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|solutionrelative:readingtracker\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|c:\\users\\nural\\downloads\\webc#\\readingtracker\\readingtracker\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|solutionrelative:readingtracker\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|c:\\users\\nural\\downloads\\webc#\\readingtracker\\readingtracker\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|solutionrelative:readingtracker\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|c:\\users\\nural\\downloads\\webc#\\readingtracker\\readingtracker\\data\\books.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|solutionrelative:readingtracker\\data\\books.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|c:\\users\\nural\\downloads\\webc#\\readingtracker\\readingtracker\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|solutionrelative:readingtracker\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|c:\\users\\nural\\downloads\\webc#\\readingtracker\\readingtracker\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|solutionrelative:readingtracker\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|c:\\users\\nural\\downloads\\webc#\\readingtracker\\readingtracker\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|solutionrelative:readingtracker\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|c:\\users\\nural\\downloads\\webc#\\readingtracker\\readingtracker\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|solutionrelative:readingtracker\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|c:\\users\\nural\\downloads\\webc#\\readingtracker\\readingtracker\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|solutionrelative:readingtracker\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|c:\\users\\nural\\downloads\\webc#\\readingtracker\\readingtracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|solutionrelative:readingtracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|c:\\users\\nural\\downloads\\webc#\\readingtracker\\readingtracker\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|solutionrelative:readingtracker\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|c:\\users\\nural\\downloads\\webc#\\readingtracker\\readingtracker\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|solutionrelative:readingtracker\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|c:\\users\\nural\\downloads\\webc#\\readingtracker\\readingtracker\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|solutionrelative:readingtracker\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|c:\\users\\nural\\downloads\\webc#\\readingtracker\\readingtracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|solutionrelative:readingtracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|c:\\users\\nural\\downloads\\webc#\\readingtracker\\readingtracker\\services\\jsondataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|solutionrelative:readingtracker\\services\\jsondataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|c:\\users\\nural\\downloads\\webc#\\readingtracker\\readingtracker\\readingtracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|solutionrelative:readingtracker\\readingtracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|c:\\users\\nural\\downloads\\webc#\\readingtracker\\readingtracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|solutionrelative:readingtracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|c:\\users\\nural\\downloads\\webc#\\readingtracker\\readingtracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|solutionrelative:readingtracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|c:\\users\\nural\\downloads\\webc#\\readingtracker\\readingtracker\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|solutionrelative:readingtracker\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|c:\\users\\nural\\downloads\\webc#\\readingtracker\\readingtracker\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|solutionrelative:readingtracker\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|c:\\users\\nural\\downloads\\webc#\\readingtracker\\readingtracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DD7472-D596-F4A0-7F7E-9ED7DDBF7CCC}|ReadingTracker\\ReadingTracker.csproj|solutionrelative:readingtracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "ReadingTracker\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "ReadingTracker\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T07:07:02.502Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "ReadingTracker\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Controllers\\BookController.cs",
+              "RelativeToolTip": "ReadingTracker\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T07:05:00.503Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ReadingTracker\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ReadingTracker\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-06T07:57:38.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ReadingTracker\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ReadingTracker\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T07:35:42.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ReadingTracker\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ReadingTracker\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwDQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T07:34:57.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ReadingTracker\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ReadingTracker\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowCsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T07:21:00.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ReadingTracker\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Models\\User.cs",
+              "RelativeToolTip": "ReadingTracker\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T07:20:46.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JsonDataService.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Services\\JsonDataService.cs",
+              "RelativeDocumentMoniker": "ReadingTracker\\Services\\JsonDataService.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Services\\JsonDataService.cs",
+              "RelativeToolTip": "ReadingTracker\\Services\\JsonDataService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAtwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T07:20:26.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReadingTracker.csproj",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\ReadingTracker.csproj",
+              "RelativeDocumentMoniker": "ReadingTracker\\ReadingTracker.csproj",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\ReadingTracker.csproj",
+              "RelativeToolTip": "ReadingTracker\\ReadingTracker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-06T07:20:00.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "users.json",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Data\\users.json",
+              "RelativeDocumentMoniker": "ReadingTracker\\Data\\users.json",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Data\\users.json",
+              "RelativeToolTip": "ReadingTracker\\Data\\users.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-06T07:19:39.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "books.json",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Data\\books.json",
+              "RelativeDocumentMoniker": "ReadingTracker\\Data\\books.json",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Data\\books.json",
+              "RelativeToolTip": "ReadingTracker\\Data\\books.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-06T07:19:26.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Program.cs",
+              "RelativeDocumentMoniker": "ReadingTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Program.cs",
+              "RelativeToolTip": "ReadingTracker\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T07:14:50.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "ReadingTracker\\appsettings.json",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\appsettings.json",
+              "RelativeToolTip": "ReadingTracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-06T07:14:34.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ReadingTracker\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ReadingTracker\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T07:08:51.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ReadingTracker\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ReadingTracker\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T07:08:28.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ReadingTracker\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ReadingTracker\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T07:08:06.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ReadingTracker\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ReadingTracker\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T07:07:55.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ReadingTracker\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ReadingTracker\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T07:07:46.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "ReadingTracker\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "ReadingTracker\\Views\\Book\\Create.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAcwD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T07:06:51.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Views\\Book\\Details.cshtml",
+              "RelativeDocumentMoniker": "ReadingTracker\\Views\\Book\\Details.cshtml",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Views\\Book\\Details.cshtml",
+              "RelativeToolTip": "ReadingTracker\\Views\\Book\\Details.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T07:06:41.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "ReadingTracker\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Models\\Book.cs",
+              "RelativeToolTip": "ReadingTracker\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T07:05:35.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ReadingTracker\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ReadingTracker\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T07:05:25.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ReadingTracker\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\WebC#\\ReadingTracker\\ReadingTracker\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ReadingTracker\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T07:04:34.017Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

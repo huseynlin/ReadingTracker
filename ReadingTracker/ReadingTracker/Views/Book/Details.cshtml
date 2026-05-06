@@ -1,0 +1,55 @@
+﻿@model ReadingTracker.Models.Book
+@{
+    ViewData["Title"] = Model.Title;
+}
+
+<div class="container py-5 mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-7">
+            <div class="card border-0 shadow-lg overflow-hidden animate-fade-in" style="border-radius: 28px;">
+                <div class="bg-primary p-5 text-center text-white">
+                    <h1 class="display-5 fw-bold mb-0">@Model.Title</h1>
+                    <p class="opacity-75 mb-0 fs-5 mt-2">@Model.Author</p>
+                </div>
+                <div class="card-body p-5">
+                    <div class="row mb-4">
+                        <div class="col-sm-6 mb-3 mb-sm-0 text-center text-sm-start">
+                            <label class="text-muted small fw-bold text-uppercase d-block">Status</label>
+                            <span class="badge @(Model.Status == ReadingTracker.Models.BookStatus.Bitirilib ? "bg-success" : "bg-warning text-dark") fs-6 rounded-pill px-4 py-2 mt-1">
+                                @Model.Status
+                            </span>
+                        </div>
+                    </div>
+
+                    <div class="mb-5">
+                        <label class="text-muted small fw-bold text-uppercase d-block mb-2">Kitab Haqqında Qeydlər</label>
+                        <div class="p-4 bg-light rounded-4" style="line-height: 1.8; color: #475569;">
+                            @(string.IsNullOrEmpty(Model.Summary) ? "Heç bir qeyd daxil edilməyib." : Model.Summary)
+                        </div>
+                    </div>
+
+                    <div class="d-flex flex-wrap gap-3 justify-content-center">
+                        <a href="/books/my-list" class="btn btn-outline-secondary px-5 py-3 rounded-pill fw-bold">
+                            <i class="bi bi-arrow-left me-2"></i>Siyahıya Qayıt
+                        </a>
+                        @if (Model.Status == ReadingTracker.Models.BookStatus.Oxunur)
+                        {
+                            <form action="/books/mark-finished/@Model.Id" method="post">
+                                @Html.AntiForgeryToken()
+                                <button type="submit" class="btn btn-success px-5 py-3 rounded-pill fw-bold">
+                                    <i class="bi bi-check2-circle me-2"></i>Bitirildi İşarələ
+                                </button>
+                            </form>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    body { background-color: #f8fafc; font-family: 'Plus Jakarta Sans', sans-serif; }
+    .animate-fade-in { animation: fadeIn 0.6s ease-out; }
+    @@keyframes fadeIn { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+</style>
