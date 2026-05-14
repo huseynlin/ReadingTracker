@@ -4,7 +4,6 @@ Visual Studio 2026 və ASP.NET 10 platforması üzərində inşa edilmiş, minim
 
 ![ASP.NET 10](https://img.shields.io/badge/ASP.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Visual Studio 2026](https://img.shields.io/badge/VS_2026-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ## 📋 Layihə Haqqında
 ReadingTracker, istifadəçilərə öz oxu vərdişlərini izləməyə kömək edən, fərdi kitabxanalarını rəqəmsallaşdıran bir platformadır. Tətbiq, "Clean Code" prinsipləri və modern UI (User Interface) trendləri əsasında hazırlanmışdır.
